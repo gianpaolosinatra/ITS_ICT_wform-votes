@@ -1,0 +1,10 @@
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\bin\Debug\NewProject.exe.config
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\bin\Debug\NewProject.exe
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\bin\Debug\NewProject.pdb
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\obj\Debug\NewProject.csprojAssemblyReference.cache
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\obj\Debug\NewProject.Classes.Form1.resources
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\obj\Debug\NewProject.Properties.Resources.resources
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\obj\Debug\NewProject.csproj.GenerateResource.cache
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\obj\Debug\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\obj\Debug\NewProject.exe
+C:\Users\g.sinatra\source\repos\NewProject\NewProject\obj\Debug\NewProject.pdb
